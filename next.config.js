@@ -36,6 +36,11 @@ module.exports = {
         destination: '/6',
         permanent: true,
       },
+      {
+        source: '/6',
+        destination: '/7',
+        permanent: true,
+      },
     ];
   },
 };
